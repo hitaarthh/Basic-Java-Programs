@@ -1,1 +1,1 @@
-# Basic-Java-Programs
+Solutions for all the basic problems which i had done till my +2 level are listed here, i made them using BLUE J but the code needs some changes for different compilers like VS Code etc, so kindly do the changes to run the program
